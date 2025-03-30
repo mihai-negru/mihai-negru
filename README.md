@@ -4,4 +4,4 @@ My favourite programming languages:
 * C for life
 * Rust for joy
 
-Reach me via my email address determinant289@gmail.com
+Reach me via my email address mihai.negru.careers@gmail.com
